@@ -1280,7 +1280,7 @@ h1, h2, h3, h4, h5,
 
 .ftco-cover-1 {
   background-size: cover;
-  background-position: center center;
+  background-position: center bottom;
   background-repeat: no-repeat; }
   .ftco-cover-1,
   .ftco-cover-1 .container > .row {
@@ -1297,7 +1297,7 @@ h1, h2, h3, h4, h5,
       left: 0;
       right: 0;
       bottom: 0;
-      opacity: .95;
+      opacity: .50;
       background: #377aff;
       background: -moz-linear-gradient(45deg, #377aff 0%, #00d9ff 100%);
       background: -webkit-gradient(left bottom, right top, color-stop(0%, #377aff), color-stop(100%, #00d9ff));
